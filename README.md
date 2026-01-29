@@ -2,6 +2,9 @@
 
 This project can read CSV files, process them, and finally save the result.  
 It doesn't overwrite the original files; instead, it creates a copy with the new results.
+<br>
+<br>
+Sources, that you can get CSV data from: Excel, Databases, Google Sheets, LibreOffice, Web/API's or Text files.
 
 # Main idea of the project
 Input file  -->  Read  -->  Process  -->  Save
@@ -19,9 +22,9 @@ The CSV Reader contains four Python files:
 
 This project uses **Pandas**, a fast, powerful, and open-source library for:
 
-- data manipulation  
-- data cleaning  
-- data analysis  
+- data manipulation: Fix mistakes, remove duplicates, handle missing values
+- data cleaning: Change, add, remove, or reshape data
+- data analysis: Explore data to find patterns, insights, summaries
 
 Pandas efficiently handles structured data using two primary data structures:
 
