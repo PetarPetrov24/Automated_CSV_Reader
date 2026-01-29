@@ -3,6 +3,9 @@
 This project can read CSV files, process them, and finally save the result.  
 It doesn't overwrite the original files; instead, it creates a copy with the new results.
 
+# Main idea of the project
+Input file  -->  Read  -->  Process  -->  Save
+
 ## Project Structure
 
 The CSV Reader contains four Python files:
