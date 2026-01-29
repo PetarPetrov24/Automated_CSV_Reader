@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# VS Code workspace settings
+.vscode/
+
+# Output files
+output/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
