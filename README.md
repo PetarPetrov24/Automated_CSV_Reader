@@ -27,6 +27,9 @@ Pandas efficiently handles structured data using two primary data structures:
 
 It allows users to import, manipulate, filter, and merge data easily.
 
+## Run the project
+- Simply write in the terminal this command: python main.py
+
 ## Tech Stack
 
 - **Language:** Python  
